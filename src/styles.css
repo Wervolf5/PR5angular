@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("./assets/Shrift/Roboto.ttf");
+}
+
+@font-face {
+    font-family: Robotobold;
+    src: url("./assets/Shrift/Robotobold.ttf");
+    font-weight: bold;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
